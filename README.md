@@ -35,4 +35,4 @@ The objective of this project is to practice data analysis using core Python num
 
 ## 👨‍💻 Author
 *Rohit Dhoundiyal*
-
+![image alt](https://github.com/dhoundiyalrohit9-png/monthly-sales-performance-analysis-using-numpy/blob/400a4eb27ccdadc8ee5b86749bde529f23911c17/Screenshot%202026-02-02%20221547.png)
